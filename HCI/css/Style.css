@@ -1,0 +1,32 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+body{
+    background-image: url(../Images/BackgroundHome.jpg);
+    background-attachment: fixed;
+    background-size: cover; 
+}
+.fullWidth{
+    width: 100%;
+}
+.halfWidth{
+    width: 50%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.kiri{
+    float: left;
+}
+
+.kanan{
+    float: right;
+}
+.textCenter{
+    text-align: center;
+}

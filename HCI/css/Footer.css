@@ -1,0 +1,16 @@
+.footer{
+    overflow: hidden;
+    color: black;
+    background-color: darkturquoise;
+    width: 100%; 
+    padding-right: 1%;
+}
+.copyRight{
+    font-weight: bold;
+    font-size: 20px;   
+}
+
+#iconSocMed{
+    width: 2%;
+    margin: 2px;
+}

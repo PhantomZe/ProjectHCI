@@ -1,0 +1,33 @@
+.content{
+    background-color:rgba(255, 250, 250,0.5);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: black 2px solid;
+}
+.btnBuy{
+    width: 100%;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.premiumContent{
+    background-color: red;
+}
+.title{
+    background-color: yellow;
+}
+.boxPremium{
+    float: left; width: 30%; margin: 1%;
+}
+.boxPremium #firstPremiun{
+    margin-left: 3%;
+}
+.btnBuy:hover {
+    background-color: green;
+}
